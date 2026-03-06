@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Database
+backend/database/helpdesk.db
+
+# Environment
+.env
+
+# ML models and data
+ml-service/*.pkl
+ml-service/ticket_dataset.json
+
+# Vite build
+frontend/dist/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
