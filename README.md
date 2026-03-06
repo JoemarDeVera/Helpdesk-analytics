@@ -4,6 +4,19 @@ An intelligent helpdesk web application that automatically classifies support ti
 
 ---
 
+## Preview
+
+### Landing Page
+![Landing Page](/gifs/landingpage.gif)
+
+### Ticket Page
+![Ticket Page](/gifs/ticket.gif)
+
+### Analytics Page
+![Analytics Page](/gifs/analytics.gif)
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
